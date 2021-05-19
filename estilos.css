@@ -1,0 +1,28 @@
+*{
+    margin: auto;
+    padding: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+.contenedor{
+    background-color: black;
+    padding: 20px;
+    padding-top: 0px;
+    width: 1000px;
+    height: 100%;
+    
+}
+h1{
+    display: block;
+    text-align: center;
+    padding: 20px;
+    color: blue;
+
+}
+img {
+    display: block;
+    width: 80%;
+    height: 150px;
+    padding: 2px;
+}
